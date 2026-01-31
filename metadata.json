@@ -1,0 +1,7 @@
+{
+  "name": "MPADCS - Medication Post-Administration Digital Counting System",
+  "description": "A secure system for healthcare professionals to manage medication administration, perform manual verification counts, and maintain an automated audit trail of inventory.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
